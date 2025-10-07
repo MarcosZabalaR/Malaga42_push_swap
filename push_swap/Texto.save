@@ -1,0 +1,25 @@
+Validate_input:
+
+Comprueba queno se repitan, sean numeros, que no esten vacios y obvio 
+comprueba si me pasaron un string con todos los argumentos o muchos argumentos
+que junto en un string.
+
+En caso de error muestra error en pantalla y libera la memoria con una
+funcion en pipex
+
+Parse_Input:
+
+Si los argumentos son muchos y no un string con todos, los une, cuenta
+el tamaño del string de argumentos y los parsea a int, al acabar libera
+la memoria de argumentos y notifica errores si los hay
+
+Init_stack:
+Inicia el stack creando los nodos y asignandoles su valor, despues les da un
+index el cual es la posicion en la cual deberian estar en el stack y por
+ultimo calcula el coste de ponerlo en su sitio en base a su posicion la cual 
+tambien coloca y su index, teniendo en cuenta la media.
+
+Sort:
+
+
+
